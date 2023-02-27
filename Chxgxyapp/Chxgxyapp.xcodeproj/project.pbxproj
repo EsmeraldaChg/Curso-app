@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0A2A2F2729AD3D2F0058343E /* TableViewControllerRecetario.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A2A2F2629AD3D2F0058343E /* TableViewControllerRecetario.swift */; };
+		0A2A2F2929AD3E250058343E /* TableViewCellRecetas.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A2A2F2829AD3E250058343E /* TableViewCellRecetas.swift */; };
 		0A31D5ED299C203A0005AF82 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A31D5EC299C203A0005AF82 /* AppDelegate.swift */; };
 		0A31D5EF299C203A0005AF82 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A31D5EE299C203A0005AF82 /* SceneDelegate.swift */; };
 		0A31D5F1299C203A0005AF82 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A31D5F0299C203A0005AF82 /* ViewController.swift */; };
@@ -16,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0A2A2F2629AD3D2F0058343E /* TableViewControllerRecetario.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewControllerRecetario.swift; sourceTree = "<group>"; };
+		0A2A2F2829AD3E250058343E /* TableViewCellRecetas.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCellRecetas.swift; sourceTree = "<group>"; };
 		0A31D5E9299C203A0005AF82 /* Chxgxyapp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Chxgxyapp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0A31D5EC299C203A0005AF82 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0A31D5EE299C203A0005AF82 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -60,6 +64,8 @@
 				0A31D5EE299C203A0005AF82 /* SceneDelegate.swift */,
 				0A31D5F0299C203A0005AF82 /* ViewController.swift */,
 				0A31D5F2299C203A0005AF82 /* Main.storyboard */,
+				0A2A2F2629AD3D2F0058343E /* TableViewControllerRecetario.swift */,
+				0A2A2F2829AD3E250058343E /* TableViewCellRecetas.swift */,
 				0A31D5F5299C203D0005AF82 /* Assets.xcassets */,
 				0A31D5F7299C203D0005AF82 /* LaunchScreen.storyboard */,
 				0A31D5FA299C203D0005AF82 /* Info.plist */,
@@ -140,6 +146,8 @@
 			files = (
 				0A31D5F1299C203A0005AF82 /* ViewController.swift in Sources */,
 				0A31D5ED299C203A0005AF82 /* AppDelegate.swift in Sources */,
+				0A2A2F2929AD3E250058343E /* TableViewCellRecetas.swift in Sources */,
+				0A2A2F2729AD3D2F0058343E /* TableViewControllerRecetario.swift in Sources */,
 				0A31D5EF299C203A0005AF82 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
